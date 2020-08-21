@@ -1,0 +1,1 @@
+# structure-array-in-c
